@@ -36,8 +36,8 @@ pygmentsuseclasses         = true
   [[menu.main]]
     name                   = "Projects"
     weight                 = -110
-    identifier             = "moment"
-    url                    = "moment/" 
+    identifier             = "projects"
+    url                    = "projects/" 
 
   [[menu.main]]
     name                   = "About"
@@ -51,9 +51,9 @@ pygmentsuseclasses         = true
   faviconfile              = "img/zheng.png"               # from static/
   avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png 
   author                   = "Cian Kehoe"
-  description              = ["Student", "Intern @ TSSG"]           # appears in the site header when set to a non-empty string
-  welcome_head             = "Hello, There"
-  welcome_word             = "~ No Day But Today ~"
+  description              = ["CS Student @ DCU", "Vice-Chairperson @ Redbrick", "Software Engineer & Research Intern @ TSSG"]           # appears in the site header when set to a non-empty string
+  welcome_head             = " 'The great myth of our time is that technology is communication.'"
+  welcome_word             = "- Libby Larsen"
 
   latestpostscount         = 3                             # how many posts to display on the home page
   bloggroupby              = 'month'
