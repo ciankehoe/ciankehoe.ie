@@ -51,7 +51,7 @@ pygmentsuseclasses         = true
   faviconfile              = "img/zheng.png"               # from static/
   avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png 
   author                   = "Cian Kehoe"
-  description              = ["CS Student @ DCU", "Vice-Chairperson @ Redbrick", "Software Engineer & Research Intern @ TSSG"]           # appears in the site header when set to a non-empty string
+  description              = ["CASE Student @ DCU", "Vice-Chairperson @ Redbrick"]           # appears in the site header when set to a non-empty string
   welcome_head             = " 'The great myth of our time is that technology is communication.'"
   welcome_word             = "- Libby Larsen"
 
